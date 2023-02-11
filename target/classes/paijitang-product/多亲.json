@@ -1,0 +1,36 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":97149,
+				"name":"多亲 F22 Pro"
+			},
+			{
+				"id":91970,
+				"name":"多亲 Qin 1S+"
+			},
+			{
+				"id":73686,
+				"name":"多亲 F21 Pro+"
+			},
+			{
+				"id":78115,
+				"name":"多亲 F21 Pro"
+			},
+			{
+				"id":77295,
+				"name":"多亲 F21s"
+			},
+			{
+				"id":47959,
+				"name":"多亲 Qin 2 Pro"
+			},
+			{
+				"id":92238,
+				"name":"多亲 Qin 2"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

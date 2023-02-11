@@ -1,0 +1,24 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":42474,
+				"name":"硕王 SAILF X12 Pro"
+			},
+			{
+				"id":43723,
+				"name":"硕王 Mate 40"
+			},
+			{
+				"id":42622,
+				"name":"硕王 R20"
+			},
+			{
+				"id":39089,
+				"name":"硕王 SAILF X27"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

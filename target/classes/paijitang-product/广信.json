@@ -1,0 +1,24 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":35216,
+				"name":"广信 EF33"
+			},
+			{
+				"id":39026,
+				"name":"广信 F9"
+			},
+			{
+				"id":35215,
+				"name":"广信 EF36"
+			},
+			{
+				"id":58371,
+				"name":"广信 F3C"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

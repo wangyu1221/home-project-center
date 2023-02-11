@@ -1,0 +1,20 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":98579,
+				"name":"鼎桥 P50 (5G版)"
+			},
+			{
+				"id":79977,
+				"name":"鼎桥 M40"
+			},
+			{
+				"id":56037,
+				"name":"鼎桥 N8 Pro"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

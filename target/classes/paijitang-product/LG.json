@@ -1,0 +1,672 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":37736,
+				"name":"LG G8S ThinQ"
+			},
+			{
+				"id":38324,
+				"name":"LG Q92"
+			},
+			{
+				"id":37741,
+				"name":"LG U"
+			},
+			{
+				"id":57951,
+				"name":"LG STYLO 5X"
+			},
+			{
+				"id":38316,
+				"name":"LG Q52"
+			},
+			{
+				"id":43356,
+				"name":"LG K92"
+			},
+			{
+				"id":36905,
+				"name":"LG K52"
+			},
+			{
+				"id":58596,
+				"name":"LG K42"
+			},
+			{
+				"id":36536,
+				"name":"LG Wing"
+			},
+			{
+				"id":72006,
+				"name":"LG Phoenix 5"
+			},
+			{
+				"id":37485,
+				"name":"LG K22"
+			},
+			{
+				"id":38249,
+				"name":"LG Q61"
+			},
+			{
+				"id":58987,
+				"name":"LG Fortune 3"
+			},
+			{
+				"id":73373,
+				"name":"LG stylo 6"
+			},
+			{
+				"id":38341,
+				"name":"LG Velvet（5G)"
+			},
+			{
+				"id":74860,
+				"name":"LG K31"
+			},
+			{
+				"id":36455,
+				"name":"LG V60 ThinQ （5G版）"
+			},
+			{
+				"id":35470,
+				"name":"LG Q51"
+			},
+			{
+				"id":37705,
+				"name":"LG K41s"
+			},
+			{
+				"id":43317,
+				"name":"LG K61"
+			},
+			{
+				"id":42702,
+				"name":"LG K51S"
+			},
+			{
+				"id":35502,
+				"name":"LG X6"
+			},
+			{
+				"id":36451,
+				"name":"LG K51"
+			},
+			{
+				"id":36370,
+				"name":"LG G8X ThinQ"
+			},
+			{
+				"id":36386,
+				"name":"LG Stylo 5+"
+			},
+			{
+				"id":35075,
+				"name":"LG K50S"
+			},
+			{
+				"id":55378,
+				"name":"LG K20"
+			},
+			{
+				"id":36596,
+				"name":"LG K50"
+			},
+			{
+				"id":34130,
+				"name":"LG K40S"
+			},
+			{
+				"id":34703,
+				"name":"LG Q9"
+			},
+			{
+				"id":34069,
+				"name":"LG W30"
+			},
+			{
+				"id":35516,
+				"name":"LG X4"
+			},
+			{
+				"id":35395,
+				"name":"LG K40"
+			},
+			{
+				"id":38349,
+				"name":"LG X4 (2019版)"
+			},
+			{
+				"id":29775,
+				"name":"LG G8 ThinQ"
+			},
+			{
+				"id":32366,
+				"name":" LG Q60"
+			},
+			{
+				"id":30444,
+				"name":"LG V50 ThinQ（5G版）"
+			},
+			{
+				"id":38377,
+				"name":"LG Q9 One"
+			},
+			{
+				"id":35836,
+				"name":"LG V50S ThinQ（5G版）"
+			},
+			{
+				"id":26227,
+				"name":"LG V30"
+			},
+			{
+				"id":23757,
+				"name":"LG V20"
+			},
+			{
+				"id":34145,
+				"name":"LG G7 One"
+			},
+			{
+				"id":30487,
+				"name":"LG V40 ThinQ"
+			},
+			{
+				"id":36943,
+				"name":"LG K11+"
+			},
+			{
+				"id":30214,
+				"name":"LG Q Stylus+"
+			},
+			{
+				"id":30486,
+				"name":"LG G7 Fit"
+			},
+			{
+				"id":32806,
+				"name":"LG Q8（2018版）"
+			},
+			{
+				"id":29007,
+				"name":"LG Q8（2017版）"
+			},
+			{
+				"id":34830,
+				"name":"LG Q7 Plus"
+			},
+			{
+				"id":42539,
+				"name":"LG Aristo2"
+			},
+			{
+				"id":34666,
+				"name":"LG Stylo 4"
+			},
+			{
+				"id":35646,
+				"name":"LG X5"
+			},
+			{
+				"id":31021,
+				"name":"LG V35 ThinQ"
+			},
+			{
+				"id":38453,
+				"name":"LG X2 19版"
+			},
+			{
+				"id":27579,
+				"name":"LG G7+ ThinQ"
+			},
+			{
+				"id":28194,
+				"name":"LG K30"
+			},
+			{
+				"id":27254,
+				"name":"LG G7 ThinQ"
+			},
+			{
+				"id":38573,
+				"name":"LG X5 18版"
+			},
+			{
+				"id":26434,
+				"name":"LG V30S+"
+			},
+			{
+				"id":26433,
+				"name":"LG V30S"
+			},
+			{
+				"id":38416,
+				"name":"LG K9"
+			},
+			{
+				"id":28141,
+				"name":"LG X4+"
+			},
+			{
+				"id":38452,
+				"name":"LG Q7"
+			},
+			{
+				"id":38381,
+				"name":"LG Q Stylus Alpha"
+			},
+			{
+				"id":38354,
+				"name":"LG Q7 Alpha"
+			},
+			{
+				"id":25772,
+				"name":"LG G6+ (G6 Plus)"
+			},
+			{
+				"id":17905,
+				"name":"LG V10"
+			},
+			{
+				"id":27108,
+				"name":"LG V30+"
+			},
+			{
+				"id":39319,
+				"name":"LG K4 (2017)"
+			},
+			{
+				"id":39010,
+				"name":"LG X500"
+			},
+			{
+				"id":28378,
+				"name":"LG X Power2"
+			},
+			{
+				"id":93510,
+				"name":"LG Stylo 3 Plus"
+			},
+			{
+				"id":34442,
+				"name":"LG K8 (2017版)"
+			},
+			{
+				"id":28205,
+				"name":"LG Fortune"
+			},
+			{
+				"id":29514,
+				"name":"LG K10（2017版）"
+			},
+			{
+				"id":36988,
+				"name":"LG style 2"
+			},
+			{
+				"id":25112,
+				"name":"LG G6"
+			},
+			{
+				"id":38771,
+				"name":"LG X400"
+			},
+			{
+				"id":38454,
+				"name":"LG X300"
+			},
+			{
+				"id":38352,
+				"name":"LG Q6 alpha"
+			},
+			{
+				"id":31787,
+				"name":"LG K20 Plus"
+			},
+			{
+				"id":28726,
+				"name":"LG Zero"
+			},
+			{
+				"id":22417,
+				"name":"LG G5 SE"
+			},
+			{
+				"id":28399,
+				"name":"LG X Power"
+			},
+			{
+				"id":24431,
+				"name":"LG Stylus 2 Plus"
+			},
+			{
+				"id":34411,
+				"name":"LG Stylo 5"
+			},
+			{
+				"id":20306,
+				"name":"LG G5"
+			},
+			{
+				"id":60358,
+				"name":"LG Stylo 2 V"
+			},
+			{
+				"id":23874,
+				"name":"LG K10"
+			},
+			{
+				"id":63487,
+				"name":"LG V34"
+			},
+			{
+				"id":28520,
+				"name":"LG Class"
+			},
+			{
+				"id":19673,
+				"name":"LG Nexus 5X"
+			},
+			{
+				"id":38259,
+				"name":"LG G Vista2"
+			},
+			{
+				"id":24193,
+				"name":"LG X Cam"
+			},
+			{
+				"id":15042,
+				"name":"LG G3"
+			},
+			{
+				"id":32009,
+				"name":"LG G4 DUAL"
+			},
+			{
+				"id":23828,
+				"name":"LG G4 mini(H525N)"
+			},
+			{
+				"id":29902,
+				"name":"LG G Stylo"
+			},
+			{
+				"id":17609,
+				"name":"LG G4"
+			},
+			{
+				"id":31442,
+				"name":"LG G3 Cat.6"
+			},
+			{
+				"id":17595,
+				"name":"LG G Flex 2"
+			},
+			{
+				"id":24195,
+				"name":"LG X Screen"
+			},
+			{
+				"id":17709,
+				"name":"LG G3 Beat"
+			},
+			{
+				"id":17777,
+				"name":"LG L24"
+			},
+			{
+				"id":27158,
+				"name":"LG F740L"
+			},
+			{
+				"id":17545,
+				"name":"LG G Tablet 8.3"
+			},
+			{
+				"id":9911,
+				"name":"LG Nexus 5"
+			},
+			{
+				"id":24435,
+				"name":"LG-H422"
+			},
+			{
+				"id":8739,
+				"name":"LG Optimus Vu（F100L/P895）"
+			},
+			{
+				"id":15092,
+				"name":"LG Optimus L9"
+			},
+			{
+				"id":9056,
+				"name":"LG E960 Nexus 4"
+			},
+			{
+				"id":9806,
+				"name":"LG P705"
+			},
+			{
+				"id":8385,
+				"name":"LG LU6200（SU640）"
+			},
+			{
+				"id":19674,
+				"name":"LG G Pro Lite"
+			},
+			{
+				"id":2043,
+				"name":"LG Optimus 3D P920"
+			},
+			{
+				"id":2047,
+				"name":"LG GT540"
+			},
+			{
+				"id":26880,
+				"name":"LG GD580 棒棒糖"
+			},
+			{
+				"id":27788,
+				"name":"LG KP500"
+			},
+			{
+				"id":25893,
+				"name":"LG Q6"
+			},
+			{
+				"id":25892,
+				"name":"LG Q6 plus"
+			},
+			{
+				"id":24476,
+				"name":"LG Optimus G Pro"
+			},
+			{
+				"id":24434,
+				"name":"LG Stylus 2"
+			},
+			{
+				"id":24432,
+				"name":"LG G Pro Lite Dual"
+			},
+			{
+				"id":24034,
+				"name":"LG P710"
+			},
+			{
+				"id":24030,
+				"name":"LG F490L"
+			},
+			{
+				"id":23894,
+				"name":"LG LU6800"
+			},
+			{
+				"id":23885,
+				"name":"LG G3 Stylus"
+			},
+			{
+				"id":23879,
+				"name":"LG G4 Stylo"
+			},
+			{
+				"id":23876,
+				"name":"LG G2 Mini(D620)"
+			},
+			{
+				"id":23355,
+				"name":"LG P936"
+			},
+			{
+				"id":23259,
+				"name":"LG G4 Stylus"
+			},
+			{
+				"id":22292,
+				"name":"LG G4 Beat"
+			},
+			{
+				"id":20795,
+				"name":"LG G2"
+			},
+			{
+				"id":19553,
+				"name":"LG L Bello Dual"
+			},
+			{
+				"id":17945,
+				"name":"LG KM900e "
+			},
+			{
+				"id":17885,
+				"name":"LG AKA"
+			},
+			{
+				"id":17854,
+				"name":"LG F180"
+			},
+			{
+				"id":17778,
+				"name":"LG C330"
+			},
+			{
+				"id":17776,
+				"name":"LG Optimus F6"
+			},
+			{
+				"id":16185,
+				"name":"LG P725"
+			},
+			{
+				"id":16183,
+				"name":"LG GD888"
+			},
+			{
+				"id":16182,
+				"name":"LG Optimus G Pro 2"
+			},
+			{
+				"id":15091,
+				"name":"LG L22"
+			},
+			{
+				"id":15090,
+				"name":"LG F300l"
+			},
+			{
+				"id":14952,
+				"name":"LG Optimus Vu 2（F200l/F200S/F200K）"
+			},
+			{
+				"id":10008,
+				"name":"LG T500"
+			},
+			{
+				"id":9972,
+				"name":"LG F120k"
+			},
+			{
+				"id":9968,
+				"name":"LG G Flex"
+			},
+			{
+				"id":9905,
+				"name":"LG Optimus GK (F220)"
+			},
+			{
+				"id":9740,
+				"name":"LG KF305"
+			},
+			{
+				"id":9674,
+				"name":"LG VS890"
+			},
+			{
+				"id":9638,
+				"name":"LG E730"
+			},
+			{
+				"id":9598,
+				"name":"LG VS920"
+			},
+			{
+				"id":9574,
+				"name":"LG Optimus LTE3 (F260)"
+			},
+			{
+				"id":9415,
+				"name":"LG Optimus G"
+			},
+			{
+				"id":9130,
+				"name":"LG SU760"
+			},
+			{
+				"id":8671,
+				"name":"LG F160L/S/K"
+			},
+			{
+				"id":8601,
+				"name":"LG SU660"
+			},
+			{
+				"id":8580,
+				"name":"LG P880"
+			},
+			{
+				"id":8538,
+				"name":"LG P940"
+			},
+			{
+				"id":8132,
+				"name":"LG optimus Glare（E510）"
+			},
+			{
+				"id":8122,
+				"name":"LG P698"
+			},
+			{
+				"id":8050,
+				"name":"LG Optimus 2X(P993 /P990)"
+			},
+			{
+				"id":7997,
+				"name":"LG Optimus Black（P970）"
+			},
+			{
+				"id":83,
+				"name":"LG BL40"
+			},
+			{
+				"id":82,
+				"name":"LG BL20"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

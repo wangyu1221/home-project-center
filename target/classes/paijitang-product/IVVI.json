@@ -1,0 +1,24 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":56163,
+				"name":"ivvi A12"
+			},
+			{
+				"id":39105,
+				"name":"ivvi X30 Pro"
+			},
+			{
+				"id":38339,
+				"name":"ivvi X30"
+			},
+			{
+				"id":38705,
+				"name":"ivvi X50"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

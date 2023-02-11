@@ -1,0 +1,1386 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":107811,
+				"name":"华为 Mate 50E"
+			},
+			{
+				"id":99442,
+				"name":"华为 Mate 50 RS 保时捷设计"
+			},
+			{
+				"id":99441,
+				"name":"华为 Mate 50 Pro"
+			},
+			{
+				"id":99440,
+				"name":"华为 Mate 50"
+			},
+			{
+				"id":76608,
+				"name":"华为 Mate Xs 2 (4G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":65768,
+				"name":"华为 Mate 40E Pro (5G版)"
+			},
+			{
+				"id":37330,
+				"name":"华为 Mate X2 (5G版)"
+			},
+			{
+				"id":39177,
+				"name":"华为 Mate 40E (4G版)"
+			},
+			{
+				"id":39165,
+				"name":"华为 Mate 40 Pro (4G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":37589,
+				"name":"华为 Mate 40E (5G版)"
+			},
+			{
+				"id":42545,
+				"name":"华为 Mate X2 (4G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":36687,
+				"name":"华为 Mate 40"
+			},
+			{
+				"id":36897,
+				"name":"华为 Mate 40 RS保时捷设计 (典藏版)"
+			},
+			{
+				"id":36249,
+				"name":"华为 Mate 30E Pro (5G版)"
+			},
+			{
+				"id":36248,
+				"name":"华为 Mate 40 RS 保时捷设计"
+			},
+			{
+				"id":36247,
+				"name":"华为 Mate 40 Pro+ (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":36246,
+				"name":"华为 Mate 40 Pro (5G版)"
+			},
+			{
+				"id":34397,
+				"name":"华为 Mate Xs (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":36026,
+				"name":"华为 Mate Xs 5G (腾讯定制版)"
+			},
+			{
+				"id":33175,
+				"name":"华为 Mate X (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":33012,
+				"name":"华为 Mate 30 RS 保时捷设计",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":32955,
+				"name":"华为 Mate 30 (5G版)"
+			},
+			{
+				"id":32588,
+				"name":"华为 Mate 30 Pro (5G版)"
+			},
+			{
+				"id":32461,
+				"name":"华为 Mate 30 Pro (4G版)"
+			},
+			{
+				"id":32460,
+				"name":"华为 Mate 30 (4G版)"
+			},
+			{
+				"id":31767,
+				"name":"华为 Mate 20 X (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":27859,
+				"name":"华为 Mate 20 Pro UD (屏下指纹版)"
+			},
+			{
+				"id":27784,
+				"name":"华为 Mate 20 RS 保时捷设计"
+			},
+			{
+				"id":27783,
+				"name":"华为 Mate 20 X (4G版)"
+			},
+			{
+				"id":27782,
+				"name":"华为 Mate 20 Pro (无屏下指纹版)"
+			},
+			{
+				"id":27781,
+				"name":"华为 Mate 20"
+			},
+			{
+				"id":39307,
+				"name":"华为 Mate 20 Lite"
+			},
+			{
+				"id":26545,
+				"name":"华为 Mate RS 保时捷设计"
+			},
+			{
+				"id":35317,
+				"name":"华为 Mate SE"
+			},
+			{
+				"id":25998,
+				"name":"华为 Mate 10 Pro"
+			},
+			{
+				"id":25997,
+				"name":"华为 Mate 10 保时捷设计"
+			},
+			{
+				"id":25806,
+				"name":"华为 Mate 10"
+			},
+			{
+				"id":27251,
+				"name":"华为 Mate 10 lite"
+			},
+			{
+				"id":24058,
+				"name":"华为 Mate 9 保时捷设计"
+			},
+			{
+				"id":23891,
+				"name":"华为 Mate 9 Pro"
+			},
+			{
+				"id":26957,
+				"name":"华为 Mate9 Lite"
+			},
+			{
+				"id":23756,
+				"name":"华为 Mate 9"
+			},
+			{
+				"id":17793,
+				"name":"华为 Mate S"
+			},
+			{
+				"id":17895,
+				"name":"华为 Mate 8"
+			},
+			{
+				"id":15080,
+				"name":"华为 Mate 7"
+			},
+			{
+				"id":19677,
+				"name":"华为 Mate 7 (青春版)"
+			},
+			{
+				"id":10168,
+				"name":"华为 Mate 2"
+			},
+			{
+				"id":15167,
+				"name":"华为 Mate 1"
+			}
+		],
+		"seriesCode":"5",
+		"seriesName":"Mate系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":112112,
+				"name":"华为 nova 10 SE"
+			},
+			{
+				"id":98747,
+				"name":"华为 nova 10z"
+			},
+			{
+				"id":89018,
+				"name":"华为 nova 10 Pro"
+			},
+			{
+				"id":90758,
+				"name":"华为 nova 10"
+			},
+			{
+				"id":113053,
+				"name":"华为 nova Y90"
+			},
+			{
+				"id":108540,
+				"name":"华为 nova Y70"
+			},
+			{
+				"id":68391,
+				"name":"华为 nova 9 SE"
+			},
+			{
+				"id":43693,
+				"name":"华为 nova 9 Pro"
+			},
+			{
+				"id":43692,
+				"name":"华为 nova 9"
+			},
+			{
+				"id":113052,
+				"name":"华为 nova Y60"
+			},
+			{
+				"id":43264,
+				"name":"华为 nova 8 SE (活力版)"
+			},
+			{
+				"id":66783,
+				"name":"华为 nova 8i"
+			},
+			{
+				"id":39304,
+				"name":"华为 nova 8 Pro (4G版)"
+			},
+			{
+				"id":55464,
+				"name":"华为 nova 8 SE (4G版)"
+			},
+			{
+				"id":36805,
+				"name":"华为 nova 8 Pro (5G版)"
+			},
+			{
+				"id":36708,
+				"name":"华为 nova 8"
+			},
+			{
+				"id":37100,
+				"name":"华为 nova 7 SE 5G (乐活版)"
+			},
+			{
+				"id":36398,
+				"name":"华为 nova 8 SE (5G版)"
+			},
+			{
+				"id":42533,
+				"name":"华为 nova lite 3+"
+			},
+			{
+				"id":34756,
+				"name":"华为 nova 7 SE (5G版)"
+			},
+			{
+				"id":34755,
+				"name":"华为 nova 7 Pro (5G版)"
+			},
+			{
+				"id":34754,
+				"name":"华为 nova 7 (5G版)"
+			},
+			{
+				"id":37179,
+				"name":"华为 nova 7i"
+			},
+			{
+				"id":33415,
+				"name":"华为 nova 6 SE"
+			},
+			{
+				"id":33498,
+				"name":"华为 nova 6 (4G版)"
+			},
+			{
+				"id":33416,
+				"name":"华为 nova 6 (5G版)"
+			},
+			{
+				"id":32988,
+				"name":"华为 nova 5z"
+			},
+			{
+				"id":36363,
+				"name":"华为 nova 5T"
+			},
+			{
+				"id":31445,
+				"name":"华为 nova 5i Pro"
+			},
+			{
+				"id":30174,
+				"name":"华为 nova 5"
+			},
+			{
+				"id":30175,
+				"name":"华为 nova 5i"
+			},
+			{
+				"id":30173,
+				"name":"华为 nova 5 Pro"
+			},
+			{
+				"id":29117,
+				"name":"华为 nova 4e"
+			},
+			{
+				"id":76995,
+				"name":"华为 nova lite 3"
+			},
+			{
+				"id":28614,
+				"name":"华为 nova 4"
+			},
+			{
+				"id":38676,
+				"name":"华为 nova 4 (高配版)"
+			},
+			{
+				"id":27344,
+				"name":"华为 nova 3i"
+			},
+			{
+				"id":27280,
+				"name":"华为 nova 3"
+			},
+			{
+				"id":25231,
+				"name":"华为 nova 2"
+			},
+			{
+				"id":26431,
+				"name":"华为 nova 3e"
+			},
+			{
+				"id":36101,
+				"name":"华为 nova 7 SE 5G (活力版)"
+			},
+			{
+				"id":26102,
+				"name":"华为 nova 2s"
+			},
+			{
+				"id":26471,
+				"name":"华为 nova 2i"
+			},
+			{
+				"id":24552,
+				"name":"华为 nova (青春版)"
+			},
+			{
+				"id":23587,
+				"name":"华为 nova"
+			},
+			{
+				"id":39127,
+				"name":"华为 nova 2 (青春版)"
+			},
+			{
+				"id":25232,
+				"name":"华为 nova 2 Plus"
+			},
+			{
+				"id":36982,
+				"name":"华为 Nova Plus"
+			}
+		],
+		"seriesCode":"7",
+		"seriesName":"nova系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":68782,
+				"name":"华为 P50 E"
+			},
+			{
+				"id":58309,
+				"name":"华为 P50 Pocket"
+			},
+			{
+				"id":76793,
+				"name":"华为 P50 Pro (麒麟版)"
+			},
+			{
+				"id":42701,
+				"name":"华为 P50 Pro (骁龙版)"
+			},
+			{
+				"id":42842,
+				"name":"华为 P50"
+			},
+			{
+				"id":37462,
+				"name":"华为 P40 (4G版)"
+			},
+			{
+				"id":96348,
+				"name":"华为 P Smart 2020"
+			},
+			{
+				"id":35612,
+				"name":"华为 P40 lite (4G版)"
+			},
+			{
+				"id":35106,
+				"name":"华为 P40 Pro+",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":72300,
+				"name":"华为 P40 lite (5G版)"
+			},
+			{
+				"id":34576,
+				"name":"华为 P40 Pro"
+			},
+			{
+				"id":34575,
+				"name":"华为 P40 (5G版)"
+			},
+			{
+				"id":43190,
+				"name":"华为 P40 Lite E"
+			},
+			{
+				"id":39178,
+				"name":"华为 P Smart 2021"
+			},
+			{
+				"id":29261,
+				"name":"华为 P30"
+			},
+			{
+				"id":29260,
+				"name":"华为 P30 Pro"
+			},
+			{
+				"id":30160,
+				"name":"华为 P smart 2019"
+			},
+			{
+				"id":35921,
+				"name":"华为 P30 Lite"
+			},
+			{
+				"id":36025,
+				"name":"华为 P Smart Z"
+			},
+			{
+				"id":26536,
+				"name":"华为 P20 Pro"
+			},
+			{
+				"id":26464,
+				"name":"华为 P20"
+			},
+			{
+				"id":24348,
+				"name":"华为 P10 Plus"
+			},
+			{
+				"id":24347,
+				"name":"华为 P10"
+			},
+			{
+				"id":25794,
+				"name":"华为 P10 (青春版)"
+			},
+			{
+				"id":37421,
+				"name":"华为 P9 Lite"
+			},
+			{
+				"id":20658,
+				"name":"华为 P9 Plus"
+			},
+			{
+				"id":20122,
+				"name":"华为 P9"
+			},
+			{
+				"id":17527,
+				"name":"华为 P8"
+			},
+			{
+				"id":17647,
+				"name":"华为 P8 Max"
+			},
+			{
+				"id":17549,
+				"name":"华为 P8 (青春版)"
+			}
+		],
+		"seriesCode":"9",
+		"seriesName":"P系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":113083,
+				"name":"华为 畅享50z"
+			},
+			{
+				"id":96157,
+				"name":"华为 畅享 50 pro"
+			},
+			{
+				"id":84715,
+				"name":"华为 畅享 50"
+			},
+			{
+				"id":37018,
+				"name":"华为 畅享20 SE"
+			},
+			{
+				"id":52549,
+				"name":"华为 畅享20e"
+			},
+			{
+				"id":35809,
+				"name":"华为 畅享20 Plus"
+			},
+			{
+				"id":35830,
+				"name":"华为 畅享20 (5G版)"
+			},
+			{
+				"id":35290,
+				"name":"华为 畅享20 Pro"
+			},
+			{
+				"id":35125,
+				"name":"华为 畅享Z"
+			},
+			{
+				"id":34376,
+				"name":"华为 畅享10e"
+			},
+			{
+				"id":33436,
+				"name":"华为 畅享10S"
+			},
+			{
+				"id":32827,
+				"name":"华为 畅享10"
+			},
+			{
+				"id":32089,
+				"name":"华为 畅享10 Plus"
+			},
+			{
+				"id":29348,
+				"name":"华为 畅享9e"
+			},
+			{
+				"id":29246,
+				"name":"华为 畅享9S"
+			},
+			{
+				"id":28495,
+				"name":"华为 畅享9"
+			},
+			{
+				"id":27860,
+				"name":"华为 畅享9 Plus"
+			},
+			{
+				"id":27861,
+				"name":"华为 畅享 MAX"
+			},
+			{
+				"id":26927,
+				"name":"华为 畅享8e (青春版)"
+			},
+			{
+				"id":26493,
+				"name":"华为 畅享8e"
+			},
+			{
+				"id":26492,
+				"name":"华为 畅享8 Plus"
+			},
+			{
+				"id":26491,
+				"name":"华为 畅享8"
+			},
+			{
+				"id":26167,
+				"name":"华为 畅享7S"
+			},
+			{
+				"id":24992,
+				"name":"华为 畅享7 Plus"
+			},
+			{
+				"id":25432,
+				"name":"华为 畅享7"
+			},
+			{
+				"id":23814,
+				"name":"华为 畅享6"
+			},
+			{
+				"id":17967,
+				"name":"华为 畅享5S"
+			},
+			{
+				"id":17886,
+				"name":"华为 畅享5"
+			},
+			{
+				"id":23968,
+				"name":"华为 畅享6S"
+			}
+		],
+		"seriesCode":"17",
+		"seriesName":"畅享系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":35671,
+				"name":"华为 麦芒9"
+			},
+			{
+				"id":29937,
+				"name":"华为 麦芒8"
+			},
+			{
+				"id":27643,
+				"name":"华为 麦芒7"
+			},
+			{
+				"id":25765,
+				"name":"华为 麦芒6"
+			},
+			{
+				"id":17698,
+				"name":"华为 麦芒4"
+			},
+			{
+				"id":15049,
+				"name":"华为 麦芒3 (C199)"
+			},
+			{
+				"id":17578,
+				"name":"华为 麦芒3S (C199S)"
+			},
+			{
+				"id":9896,
+				"name":"华为 麦芒2 (B199)"
+			},
+			{
+				"id":9366,
+				"name":"华为 A199"
+			},
+			{
+				"id":23125,
+				"name":"华为 麦芒5"
+			}
+		],
+		"seriesCode":"18",
+		"seriesName":"麦芒系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":19298,
+				"name":"华为 Ascend D3"
+			},
+			{
+				"id":9639,
+				"name":"华为 Ascend D2"
+			},
+			{
+				"id":9138,
+				"name":"华为 Ascend D1 XL"
+			},
+			{
+				"id":8577,
+				"name":"华为 Ascend D1"
+			}
+		],
+		"seriesCode":"63",
+		"seriesName":"Ascend D系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":17650,
+				"name":"华为 Ascend GX1"
+			},
+			{
+				"id":17321,
+				"name":"华为 Ascend G7"
+			},
+			{
+				"id":14971,
+				"name":"华为 Ascend G6"
+			},
+			{
+				"id":15151,
+				"name":"华为 Ascend G615"
+			},
+			{
+				"id":15149,
+				"name":"华为 Ascend G350"
+			},
+			{
+				"id":8635,
+				"name":"华为 Ascend G300"
+			}
+		],
+		"seriesCode":"65",
+		"seriesName":"Ascend G系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":17345,
+				"name":"华为 Ascend P7"
+			},
+			{
+				"id":10219,
+				"name":"华为 Ascend P6 S"
+			},
+			{
+				"id":9427,
+				"name":"华为 Ascend P6"
+			},
+			{
+				"id":17317,
+				"name":"华为 Ascend P2"
+			},
+			{
+				"id":28426,
+				"name":"华为 Ascend P1"
+			},
+			{
+				"id":8509,
+				"name":"华为 Ascend P1 系列"
+			}
+		],
+		"seriesCode":"67",
+		"seriesName":"Ascend P系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":24053,
+				"name":"华为 Cherry Mini"
+			},
+			{
+				"id":17739,
+				"name":"华为 C8818"
+			},
+			{
+				"id":17358,
+				"name":"华为 C8817e (电信4G)"
+			},
+			{
+				"id":15045,
+				"name":"华为 C8817"
+			},
+			{
+				"id":10040,
+				"name":"华为 C8816"
+			},
+			{
+				"id":9494,
+				"name":"华为 C8815"
+			},
+			{
+				"id":22069,
+				"name":"华为 C8817L"
+			},
+			{
+				"id":15148,
+				"name":"华为 C8826d"
+			},
+			{
+				"id":9186,
+				"name":"华为 C8813"
+			},
+			{
+				"id":21764,
+				"name":"华为 C8500"
+			},
+			{
+				"id":8382,
+				"name":"华为 C8812"
+			},
+			{
+				"id":8524,
+				"name":"华为 C8655 (电信版)"
+			},
+			{
+				"id":9793,
+				"name":"华为 C8650"
+			},
+			{
+				"id":9798,
+				"name":"华为 C8500s"
+			},
+			{
+				"id":9609,
+				"name":"华为 C8300"
+			},
+			{
+				"id":27972,
+				"name":"华为 C8600"
+			},
+			{
+				"id":9931,
+				"name":"华为 C3100"
+			}
+		],
+		"seriesCode":"68",
+		"seriesName":"C系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":23346,
+				"name":"华为 G9 Plus"
+			},
+			{
+				"id":27632,
+				"name":"华为 GT3"
+			},
+			{
+				"id":20751,
+				"name":"华为 G9 青春版"
+			},
+			{
+				"id":28068,
+				"name":"华为 GR3"
+			},
+			{
+				"id":17795,
+				"name":"华为 G7 Plus"
+			},
+			{
+				"id":19319,
+				"name":"华为 G629"
+			},
+			{
+				"id":17868,
+				"name":"华为 G628"
+			},
+			{
+				"id":17230,
+				"name":"华为 G660"
+			},
+			{
+				"id":14956,
+				"name":"华为 G620"
+			},
+			{
+				"id":15150,
+				"name":"华为 G521"
+			},
+			{
+				"id":15153,
+				"name":"华为 G630"
+			},
+			{
+				"id":15154,
+				"name":"华为 G718"
+			},
+			{
+				"id":9894,
+				"name":"华为 G716"
+			},
+			{
+				"id":10064,
+				"name":"华为 G610"
+			},
+			{
+				"id":9892,
+				"name":"华为 G606-T00"
+			},
+			{
+				"id":9881,
+				"name":"华为 G525"
+			},
+			{
+				"id":9632,
+				"name":"华为 G700"
+			},
+			{
+				"id":9535,
+				"name":"华为 G606"
+			},
+			{
+				"id":9395,
+				"name":"华为 G520"
+			},
+			{
+				"id":17730,
+				"name":"华为 G616"
+			},
+			{
+				"id":9848,
+				"name":"华为 G730"
+			},
+			{
+				"id":9239,
+				"name":"华为 G510"
+			},
+			{
+				"id":8742,
+				"name":"华为 G330 系列"
+			}
+		],
+		"seriesCode":"69",
+		"seriesName":"G系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":9146,
+				"name":"华为 U8836d"
+			},
+			{
+				"id":9034,
+				"name":"华为 U9508"
+			},
+			{
+				"id":15161,
+				"name":"华为 U8832d"
+			},
+			{
+				"id":15159,
+				"name":"华为 U8812d"
+			},
+			{
+				"id":19487,
+				"name":"华为 U8651"
+			},
+			{
+				"id":8518,
+				"name":"华为 U8661"
+			},
+			{
+				"id":8440,
+				"name":"华为 U8660"
+			},
+			{
+				"id":9426,
+				"name":"华为 U8520"
+			},
+			{
+				"id":8419,
+				"name":"华为 U8650"
+			},
+			{
+				"id":9346,
+				"name":"华为 U9000"
+			},
+			{
+				"id":15157,
+				"name":"华为 U8150"
+			},
+			{
+				"id":21868,
+				"name":"华为 U7520"
+			},
+			{
+				"id":15158,
+				"name":"华为 U8230"
+			}
+		],
+		"seriesCode":"70",
+		"seriesName":"U系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":36658,
+				"name":"华为 Y7A"
+			},
+			{
+				"id":57214,
+				"name":"华为 Y9a"
+			},
+			{
+				"id":39265,
+				"name":"华为 Y5P"
+			},
+			{
+				"id":35350,
+				"name":"华为 Y6s"
+			},
+			{
+				"id":36785,
+				"name":"华为 Y6P"
+			},
+			{
+				"id":53157,
+				"name":"华为 Y8s"
+			},
+			{
+				"id":37501,
+				"name":"华为 Y7P"
+			},
+			{
+				"id":38489,
+				"name":"华为 Y8p"
+			},
+			{
+				"id":29802,
+				"name":"华为 Y5 (2019款)"
+			},
+			{
+				"id":30424,
+				"name":"华为 Y9 Prime (2019款)"
+			},
+			{
+				"id":34254,
+				"name":"华为 Y6 (2019款)"
+			},
+			{
+				"id":33177,
+				"name":"华为 Y7 Prime (2019款)"
+			},
+			{
+				"id":42677,
+				"name":"华为 Y9s"
+			},
+			{
+				"id":106775,
+				"name":"华为 Y6 Pro (2019款)"
+			},
+			{
+				"id":42510,
+				"name":"华为 Y7 Pro (2019款)"
+			},
+			{
+				"id":60509,
+				"name":"华为 Y9 (2019款)"
+			},
+			{
+				"id":27384,
+				"name":"华为 Y5 Prime (2018款)"
+			},
+			{
+				"id":34436,
+				"name":"华为 Y7 Pro (2018款)"
+			},
+			{
+				"id":34156,
+				"name":"华为 Y7 (2018款)"
+			},
+			{
+				"id":34123,
+				"name":"华为 Y6 (2018款)"
+			},
+			{
+				"id":34038,
+				"name":"华为 Y6 Prime (2018款)"
+			},
+			{
+				"id":42590,
+				"name":"华为 Y7 Prime (2018款)"
+			},
+			{
+				"id":27736,
+				"name":"华为 Y3 (2018款)"
+			},
+			{
+				"id":64957,
+				"name":"华为 Y9 (2018款)"
+			},
+			{
+				"id":50238,
+				"name":"华为 Y7 Prime (2017款)"
+			},
+			{
+				"id":27203,
+				"name":"华为 Y7"
+			},
+			{
+				"id":34151,
+				"name":"华为 Y3 2017"
+			},
+			{
+				"id":25395,
+				"name":"华为 Y5 (2017款)"
+			},
+			{
+				"id":26620,
+				"name":"华为 Y6II Compact"
+			},
+			{
+				"id":23633,
+				"name":"华为 Y600D"
+			},
+			{
+				"id":22814,
+				"name":"华为 Y523"
+			},
+			{
+				"id":17839,
+				"name":"华为 Y560"
+			},
+			{
+				"id":27703,
+				"name":"华为 Y538"
+			},
+			{
+				"id":27698,
+				"name":"华为 Y520"
+			},
+			{
+				"id":15165,
+				"name":"华为 Y618"
+			},
+			{
+				"id":27704,
+				"name":"华为 Y536"
+			},
+			{
+				"id":17409,
+				"name":"华为 Y635"
+			},
+			{
+				"id":17796,
+				"name":"华为 Y518"
+			},
+			{
+				"id":15162,
+				"name":"华为 Y330"
+			},
+			{
+				"id":15164,
+				"name":"华为 Y610"
+			},
+			{
+				"id":17794,
+				"name":"华为 Y516"
+			},
+			{
+				"id":15163,
+				"name":"华为 Y535"
+			},
+			{
+				"id":10106,
+				"name":"华为 Y325"
+			},
+			{
+				"id":14942,
+				"name":"华为 Y321C (电信版)"
+			},
+			{
+				"id":9536,
+				"name":"华为 Y320"
+			},
+			{
+				"id":9623,
+				"name":"华为 Y511"
+			},
+			{
+				"id":9956,
+				"name":"华为 Y500"
+			},
+			{
+				"id":15160,
+				"name":"华为 Y600"
+			},
+			{
+				"id":9585,
+				"name":"华为 Y310"
+			},
+			{
+				"id":9502,
+				"name":"华为 Y300"
+			},
+			{
+				"id":9104,
+				"name":"华为 Y210 系列"
+			},
+			{
+				"id":9429,
+				"name":"华为 Y220t"
+			}
+		],
+		"seriesCode":"71",
+		"seriesName":"Y系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":9498,
+				"name":"华为 W2"
+			},
+			{
+				"id":9356,
+				"name":"华为 W1"
+			}
+		],
+		"seriesCode":"121",
+		"seriesName":"W系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":9229,
+				"name":"华为 T8620"
+			},
+			{
+				"id":8492,
+				"name":"华为 T8500"
+			},
+			{
+				"id":25583,
+				"name":"华为 T8600"
+			},
+			{
+				"id":21829,
+				"name":"华为 T8300"
+			},
+			{
+				"id":10001,
+				"name":"华为 T8100 "
+			},
+			{
+				"id":8603,
+				"name":"华为 T8828 "
+			},
+			{
+				"id":9315,
+				"name":"华为 T8808d"
+			},
+			{
+				"id":9212,
+				"name":"华为 T8950"
+			},
+			{
+				"id":8677,
+				"name":"华为 T8830"
+			}
+		],
+		"seriesCode":"789",
+		"seriesName":"T系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":109352,
+				"name":"华为 Pocket S",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":34060,
+				"name":"华为 Ascend XT2"
+			},
+			{
+				"id":27145,
+				"name":"华为 S8520"
+			},
+			{
+				"id":10044,
+				"name":"华为 Vision 系列 (U8850/C8850)"
+			},
+			{
+				"id":2010,
+				"name":"华为 8800 系列"
+			},
+			{
+				"id":15156,
+				"name":"华为 OPhone"
+			},
+			{
+				"id":15155,
+				"name":"华为 M860"
+			},
+			{
+				"id":9751,
+				"name":"华为 S8600"
+			},
+			{
+				"id":8501,
+				"name":"华为 S8660"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

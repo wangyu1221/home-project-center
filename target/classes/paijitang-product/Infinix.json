@@ -1,0 +1,28 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":114622,
+				"name":"Infinix Zero 8i"
+			},
+			{
+				"id":32934,
+				"name":"Infinix Hot 8"
+			},
+			{
+				"id":32935,
+				"name":"Infinix S4"
+			},
+			{
+				"id":32933,
+				"name":"Infinix Hot 7 Pro"
+			},
+			{
+				"id":111334,
+				"name":"Infinix Note 5"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

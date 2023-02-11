@@ -1,0 +1,144 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":99362,
+				"name":"TCL 30 V (5G版)"
+			},
+			{
+				"id":91315,
+				"name":"TCL 20 XE"
+			},
+			{
+				"id":107451,
+				"name":"TCL 20 R 5G"
+			},
+			{
+				"id":107308,
+				"name":"TCL 20 Pro"
+			},
+			{
+				"id":97480,
+				"name":"TCL 20 SE"
+			},
+			{
+				"id":97479,
+				"name":"TCL 10 SE"
+			},
+			{
+				"id":35524,
+				"name":"TCL 10 Pro"
+			},
+			{
+				"id":97478,
+				"name":"TCL 10L"
+			},
+			{
+				"id":80153,
+				"name":"TCL10 5G"
+			},
+			{
+				"id":34732,
+				"name":"TCL Plex"
+			},
+			{
+				"id":31569,
+				"name":"TCL Y660"
+			},
+			{
+				"id":27281,
+				"name":"TCL V760"
+			},
+			{
+				"id":31932,
+				"name":"TCL Idol 5S"
+			},
+			{
+				"id":31842,
+				"name":"TCL 550"
+			},
+			{
+				"id":28848,
+				"name":"TCL 580"
+			},
+			{
+				"id":28962,
+				"name":"TCL 520"
+			},
+			{
+				"id":31771,
+				"name":"TCL 950"
+			},
+			{
+				"id":28814,
+				"name":"TCL 750"
+			},
+			{
+				"id":28149,
+				"name":"TCL 么么哒3S"
+			},
+			{
+				"id":29687,
+				"name":"TCL 乐玩2C"
+			},
+			{
+				"id":29285,
+				"name":"TCL idol 3"
+			},
+			{
+				"id":31494,
+				"name":"TCL P318L"
+			},
+			{
+				"id":27734,
+				"name":"TCL ono"
+			},
+			{
+				"id":28899,
+				"name":"TCL P316L"
+			},
+			{
+				"id":28773,
+				"name":"TCL P588L"
+			},
+			{
+				"id":38786,
+				"name":"TCL P308L"
+			},
+			{
+				"id":38345,
+				"name":"TCL Alcatel 1S"
+			},
+			{
+				"id":29352,
+				"name":"TCL 么么哒3N"
+			},
+			{
+				"id":28801,
+				"name":"TCL P689L"
+			},
+			{
+				"id":28861,
+				"name":"TCL P520L"
+			},
+			{
+				"id":32476,
+				"name":"TCL P688L"
+			},
+			{
+				"id":29578,
+				"name":"TCL 么么哒"
+			},
+			{
+				"id":74931,
+				"name":"TCL J636D+"
+			},
+			{
+				"id":36940,
+				"name":"TCL Hero N3"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

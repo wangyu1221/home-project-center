@@ -1,0 +1,24 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":93454,
+				"name":"T-Mobile REVVL V+ (5G版)"
+			},
+			{
+				"id":89771,
+				"name":"T-Mobile REVVL (5G版)"
+			},
+			{
+				"id":92682,
+				"name":"T-Mobile REVVL 4+"
+			},
+			{
+				"id":91326,
+				"name":"T-Mobile Revvlry"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

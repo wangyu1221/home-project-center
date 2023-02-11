@@ -1,0 +1,442 @@
+[{
+	"modelId":2300,
+	"modelName":"华为 P20"
+},{
+	"modelId":2301,
+	"modelName":"华为 P20 Pro"
+},{
+	"modelId":2302,
+	"modelName":"华为 nova 3e"
+},{
+	"modelId":2303,
+	"modelName":"华为 畅享 8 Plus"
+},{
+	"modelId":2304,
+	"modelName":"华为 畅享 8"
+},{
+	"modelId":2305,
+	"modelName":"华为 畅享 8e"
+},{
+	"modelId":2308,
+	"modelName":"华为 nova 2s"
+},{
+	"modelId":2309,
+	"modelName":"华为 麦芒 6"
+},{
+	"modelId":2313,
+	"modelName":"华为 P10"
+},{
+	"modelId":2315,
+	"modelName":"华为 P10 Plus"
+},{
+	"modelId":2316,
+	"modelName":"华为 P9"
+},{
+	"modelId":2317,
+	"modelName":"华为 P9 Plus"
+},{
+	"modelId":2318,
+	"modelName":"华为 P8"
+},{
+	"modelId":2320,
+	"modelName":"华为 P8 青春版"
+},{
+	"modelId":2321,
+	"modelName":"华为 P8 Max"
+},{
+	"modelId":2322,
+	"modelName":"华为 Mate 10"
+},{
+	"modelId":2323,
+	"modelName":"华为 Mate 10 Pro"
+},{
+	"modelId":2324,
+	"modelName":"华为 Mate 9"
+},{
+	"modelId":2325,
+	"modelName":"华为 Mate 9 Pro"
+},{
+	"modelId":2326,
+	"modelName":"华为 Mate 9 保时捷设计"
+},{
+	"modelId":2327,
+	"modelName":"华为 Mate 8"
+},{
+	"modelId":2328,
+	"modelName":"华为 Mate 7"
+},{
+	"modelId":2329,
+	"modelName":"华为 Mate S"
+},{
+	"modelId":2330,
+	"modelName":"华为 nova 2"
+},{
+	"modelId":2331,
+	"modelName":"华为 nova 2 Plus"
+},{
+	"modelId":2332,
+	"modelName":"华为 nova"
+},{
+	"modelId":2333,
+	"modelName":"华为 nova 青春版"
+},{
+	"modelId":2334,
+	"modelName":"华为 G9 Plus"
+},{
+	"modelId":2336,
+	"modelName":"华为 G7 Plus"
+},{
+	"modelId":2337,
+	"modelName":"华为 畅享 6S"
+},{
+	"modelId":2338,
+	"modelName":"华为 畅享 7 Plus"
+},{
+	"modelId":2339,
+	"modelName":"华为 畅享 6"
+},{
+	"modelId":2340,
+	"modelName":"华为 畅享 5S"
+},{
+	"modelId":2341,
+	"modelName":"华为 畅享 5"
+},{
+	"modelId":2342,
+	"modelName":"华为 麦芒 5"
+},{
+	"modelId":2343,
+	"modelName":"华为 麦芒 4"
+},{
+	"modelId":2593,
+	"modelName":"华为 畅享 7"
+},{
+	"modelId":2672,
+	"modelName":"华为 畅享 7S"
+},{
+	"modelId":2675,
+	"modelName":"华为 Mate 10 保时捷设计"
+},{
+	"modelId":2729,
+	"modelName":"华为 Mate RS 保时捷设计"
+},{
+	"modelId":2732,
+	"modelName":"华为 nova 3"
+},{
+	"modelId":2735,
+	"modelName":"华为 nova 3i"
+},{
+	"modelId":2744,
+	"modelName":"华为 畅享 MAX"
+},{
+	"modelId":2747,
+	"modelName":"华为 畅享 9 Plus"
+},{
+	"modelId":2756,
+	"modelName":"华为 麦芒 7"
+},{
+	"modelId":2759,
+	"modelName":"华为 Mate 20 Pro"
+},{
+	"modelId":2762,
+	"modelName":"华为 Mate 20 Pro (UD)"
+},{
+	"modelId":2765,
+	"modelName":"华为 Mate 20"
+},{
+	"modelId":2768,
+	"modelName":"华为 Mate 20 X (4G)"
+},{
+	"modelId":2780,
+	"modelName":"华为 畅享 8e 青春版"
+},{
+	"modelId":2786,
+	"modelName":"华为 nova 4 低配版"
+},{
+	"modelId":2789,
+	"modelName":"华为 畅享 9"
+},{
+	"modelId":2792,
+	"modelName":"华为 Mate 20 RS 保时捷设计"
+},{
+	"modelId":2800,
+	"modelName":"华为 Mate X (5G)"
+},{
+	"modelId":2803,
+	"modelName":"华为 nova 4e"
+},{
+	"modelId":2806,
+	"modelName":"华为 畅享 9S"
+},{
+	"modelId":2809,
+	"modelName":"华为 畅享 9e"
+},{
+	"modelId":2812,
+	"modelName":"华为 P30"
+},{
+	"modelId":2815,
+	"modelName":"华为 P30 Pro"
+},{
+	"modelId":2827,
+	"modelName":"华为 nova 5i"
+},{
+	"modelId":2829,
+	"modelName":"华为 nova 5"
+},{
+	"modelId":2832,
+	"modelName":"华为 nova 5 Pro"
+},{
+	"modelId":2835,
+	"modelName":"华为 麦芒 8"
+},{
+	"modelId":2850,
+	"modelName":"华为 nova 5i Pro"
+},{
+	"modelId":2856,
+	"modelName":"华为 Mate 20 X (5G)"
+},{
+	"modelId":2874,
+	"modelName":"华为 畅享 10 Plus"
+},{
+	"modelId":2877,
+	"modelName":"华为 Mate 30 (4G)"
+},{
+	"modelId":2880,
+	"modelName":"华为 Mate 30 Pro (4G)"
+},{
+	"modelId":2886,
+	"modelName":"华为 畅享 10"
+},{
+	"modelId":2889,
+	"modelName":"华为 Mate 30 Pro (5G)"
+},{
+	"modelId":2892,
+	"modelName":"华为 Mate 30 (5G)"
+},{
+	"modelId":2901,
+	"modelName":"华为 nova 6 (4G)"
+},{
+	"modelId":2904,
+	"modelName":"华为 nova 6 (5G)"
+},{
+	"modelId":2907,
+	"modelName":"华为 nova 6 SE"
+},{
+	"modelId":2910,
+	"modelName":"华为 nova 5z"
+},{
+	"modelId":6590,
+	"modelName":"华为 Mate 30 RS 保时捷设计 (5G)"
+},{
+	"modelId":7079,
+	"modelName":"华为 Mate Xs (5G)"
+},{
+	"modelId":7088,
+	"modelName":"华为 畅享 10e"
+},{
+	"modelId":7089,
+	"modelName":"华为 畅享 10S"
+},{
+	"modelId":11695,
+	"modelName":"华为 P40 (5G)"
+},{
+	"modelId":11696,
+	"modelName":"华为 P40 Pro (5G)"
+},{
+	"modelId":11697,
+	"modelName":"华为 P40 Pro+ (5G)"
+},{
+	"modelId":12050,
+	"modelName":"华为 nova 7 (5G)"
+},{
+	"modelId":12051,
+	"modelName":"华为 nova 7 Pro (5G)"
+},{
+	"modelId":12052,
+	"modelName":"华为 nova 7 SE (5G)"
+},{
+	"modelId":13355,
+	"modelName":"华为 畅享 Z (5G)"
+},{
+	"modelId":13804,
+	"modelName":"华为 P30 青春版"
+},{
+	"modelId":14537,
+	"modelName":"华为 畅享 20 Pro (5G)"
+},{
+	"modelId":15530,
+	"modelName":"华为 麦芒 9 (5G)"
+},{
+	"modelId":17290,
+	"modelName":"华为 P40 Lite"
+},{
+	"modelId":17707,
+	"modelName":"华为 Y6S (2019)"
+},{
+	"modelId":17787,
+	"modelName":"华为 畅享 20 (5G)"
+},{
+	"modelId":17788,
+	"modelName":"华为 畅享 20 Plus (5G)"
+},{
+	"modelId":18882,
+	"modelName":"华为 nova 4 高配版"
+},{
+	"modelId":30464,
+	"modelName":"华为 Y7 Pro (2019)"
+},{
+	"modelId":31939,
+	"modelName":"华为 Mate 40 (5G)"
+},{
+	"modelId":31940,
+	"modelName":"华为 Mate 40 Pro (5G)"
+},{
+	"modelId":31941,
+	"modelName":"华为 Mate 40 Pro+ (5G)"
+},{
+	"modelId":31970,
+	"modelName":"华为 Mate 40 RS 保时捷设计 (5G)"
+},{
+	"modelId":31971,
+	"modelName":"华为 Mate 30E Pro (5G)"
+},{
+	"modelId":31972,
+	"modelName":"华为 nova 7 SE (5G) 活力版"
+},{
+	"modelId":32302,
+	"modelName":"华为 nova 8 SE 标配版 (5G)"
+},{
+	"modelId":32419,
+	"modelName":"华为 nova 8 SE 高配版 (5G)"
+},{
+	"modelId":35870,
+	"modelName":"华为 nova 8 (5G)"
+},{
+	"modelId":35871,
+	"modelName":"华为 nova 8 Pro (5G)"
+},{
+	"modelId":36655,
+	"modelName":"华为 畅享 20 SE"
+},{
+	"modelId":37970,
+	"modelName":"华为 G9 青春版 (高通骁龙)"
+},{
+	"modelId":37971,
+	"modelName":"华为 G9 青春版 (海思麒麟)"
+},{
+	"modelId":38026,
+	"modelName":"华为 nova 7 SE (5G) 乐活版"
+},{
+	"modelId":38448,
+	"modelName":"华为 P40 Lite (5G)"
+},{
+	"modelId":38493,
+	"modelName":"华为 P Smart (2021)"
+},{
+	"modelId":38501,
+	"modelName":"华为 Mate X2 (5G)"
+},{
+	"modelId":38507,
+	"modelName":"华为 Y7 Prime (2019)"
+},{
+	"modelId":39821,
+	"modelName":"华为 Mate 40E (5G)"
+},{
+	"modelId":43044,
+	"modelName":"华为 nova 7i"
+},{
+	"modelId":46515,
+	"modelName":"华为 Mate 40 Pro (4G)"
+},{
+	"modelId":46516,
+	"modelName":"华为 Mate X2 (4G)"
+},{
+	"modelId":46518,
+	"modelName":"华为 Mate 40E (4G)"
+},{
+	"modelId":46519,
+	"modelName":"华为 nova 8 Pro (4G)"
+},{
+	"modelId":47557,
+	"modelName":"华为 P9 Lite (2017)"
+},{
+	"modelId":47830,
+	"modelName":"华为 P40 (4G)"
+},{
+	"modelId":51608,
+	"modelName":"华为 nova 8 SE 活力版"
+},{
+	"modelId":52385,
+	"modelName":"华为 P50"
+},{
+	"modelId":57824,
+	"modelName":"华为 P50 Pro (骁龙版)"
+},{
+	"modelId":57825,
+	"modelName":"华为 P50 Pro (麒麟版)"
+},{
+	"modelId":58894,
+	"modelName":"华为 nova 9"
+},{
+	"modelId":58895,
+	"modelName":"华为 nova 9 Pro"
+},{
+	"modelId":82279,
+	"modelName":"华为 畅享 20e"
+},{
+	"modelId":84758,
+	"modelName":"华为 nova 8 SE"
+},{
+	"modelId":86705,
+	"modelName":"华为 P50 Pocket"
+},{
+	"modelId":88704,
+	"modelName":"华为 Mate 40E Pro"
+},{
+	"modelId":89075,
+	"modelName":"华为 P50E"
+},{
+	"modelId":89086,
+	"modelName":"华为 nova 9 SE"
+},{
+	"modelId":89277,
+	"modelName":"华为 Mate 50"
+},{
+	"modelId":90750,
+	"modelName":"华为 Mate Xs 2"
+},{
+	"modelId":91854,
+	"modelName":"华为 Mate X2 典藏版 (5G)"
+},{
+	"modelId":93373,
+	"modelName":"华为 畅享 50"
+},{
+	"modelId":94189,
+	"modelName":"华为 nova 10"
+},{
+	"modelId":94190,
+	"modelName":"华为 nova 10 Pro"
+},{
+	"modelId":94782,
+	"modelName":"华为 畅享 50 Pro"
+},{
+	"modelId":95566,
+	"modelName":"华为 nova 10z"
+},{
+	"modelId":95605,
+	"modelName":"华为 Mate 50 Pro"
+},{
+	"modelId":95606,
+	"modelName":"华为 Mate 50 RS 保时捷设计"
+},{
+	"modelId":95812,
+	"modelName":"华为 Mate 50E"
+},{
+	"modelId":98179,
+	"modelName":"华为 Pocket S"
+},{
+	"modelId":99854,
+	"modelName":"华为 nova 10 SE"
+},{
+	"modelId":102597,
+	"modelName":"华为 Mate 40 RS 保时捷设计 典藏版"
+}]

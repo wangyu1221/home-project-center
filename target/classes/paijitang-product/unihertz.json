@@ -1,0 +1,36 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":110101,
+				"name":"Unihertz Titan Slim"
+			},
+			{
+				"id":70095,
+				"name":"Unihertz Ticktock"
+			},
+			{
+				"id":47962,
+				"name":"Unihertz Titan pocket"
+			},
+			{
+				"id":37165,
+				"name":"Unihertz Jelly2"
+			},
+			{
+				"id":35631,
+				"name":"Unihertz Titan"
+			},
+			{
+				"id":37170,
+				"name":"Unihertz Atom Xl"
+			},
+			{
+				"id":36917,
+				"name":" Unihertz Atom"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

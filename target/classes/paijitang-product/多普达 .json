@@ -1,0 +1,24 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":2022,
+				"name":"多普达 T8588"
+			},
+			{
+				"id":9779,
+				"name":"多普达 T8388"
+			},
+			{
+				"id":6018,
+				"name":"多普达 天享（T5588）"
+			},
+			{
+				"id":749,
+				"name":"多普达 Touch HD（T8288）"
+			}
+		],
+		"seriesCode":"-9999",
+		"seriesName":"其他"
+	}
+]

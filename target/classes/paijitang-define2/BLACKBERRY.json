@@ -1,0 +1,6456 @@
+[
+  {
+    "id": 34327,
+    "name": "黑莓 Evolve",
+    "contents": [
+      [
+        {
+          "id": 3084,
+          "name": "全网通",
+          "isChoose": false
+        },
+        {
+          "id": 2567,
+          "name": "移动版",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2454,
+          "name": "黑色",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 4066,
+          "name": "4G+64G",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 6872,
+          "name": "壳细微痕迹",
+          "isChoose": false
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 17852,
+          "name": "外壳磕碰/掉漆（磕碰≥3毫米且＞5个）",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 3097,
+          "name": "屏幕有细微划痕",
+          "isChoose": false
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 17847,
+          "name": "屏幕无触感划痕数量＞10条",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 17848,
+          "name": "屏幕硬划痕≥10毫米",
+          "isChoose": false
+        },
+        {
+          "id": 17849,
+          "name": "屏幕脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 33443,
+    "name": "黑莓 KEY 2 LE",
+    "contents": [
+      [
+        {
+          "id": 3084,
+          "name": "全网通",
+          "isChoose": false
+        },
+        {
+          "id": 2567,
+          "name": "移动版",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 4066,
+          "name": "4G+64G",
+          "isChoose": false
+        },
+        {
+          "id": 3965,
+          "name": "4G+32G",
+          "isChoose": false
+        },
+        {
+          "id": 7342,
+          "name": "4G+16G",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 6872,
+          "name": "壳细微痕迹",
+          "isChoose": false
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 17852,
+          "name": "外壳磕碰/掉漆（磕碰≥3毫米且＞5个）",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 3097,
+          "name": "屏幕有细微划痕",
+          "isChoose": false
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 17847,
+          "name": "屏幕无触感划痕数量＞10条",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 17848,
+          "name": "屏幕硬划痕≥10毫米",
+          "isChoose": false
+        },
+        {
+          "id": 17849,
+          "name": "屏幕脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 25376,
+    "name": "黑莓 KEYone",
+    "contents": [
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 3098,
+          "name": "屏有硬划痕/脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 27003,
+    "name": "黑莓 KEY 2",
+    "contents": [
+      [
+        {
+          "id": 3084,
+          "name": "全网通",
+          "isChoose": false
+        },
+        {
+          "id": 2567,
+          "name": "移动版",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3950,
+          "name": "国行展示机",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2454,
+          "name": "黑色",
+          "isChoose": false
+        },
+        {
+          "id": 2903,
+          "name": "银色",
+          "isChoose": false
+        },
+        {
+          "id": 2957,
+          "name": "红色",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 4068,
+          "name": "6G+128G",
+          "isChoose": false
+        },
+        {
+          "id": 4067,
+          "name": "6G+64G",
+          "isChoose": false
+        },
+        {
+          "id": 4066,
+          "name": "4G+64G",
+          "isChoose": false
+        },
+        {
+          "id": 7040,
+          "name": "1G+16G",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 6872,
+          "name": "壳细微痕迹",
+          "isChoose": false
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 17852,
+          "name": "外壳磕碰/掉漆（磕碰≥3毫米且＞5个）",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 3097,
+          "name": "屏幕有细微划痕",
+          "isChoose": false
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 17847,
+          "name": "屏幕无触感划痕数量＞10条",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 17848,
+          "name": "屏幕硬划痕≥10毫米",
+          "isChoose": false
+        },
+        {
+          "id": 17849,
+          "name": "屏幕脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 38824,
+    "name": "黑莓 Evolve X",
+    "contents": [
+      [
+        {
+          "id": 3084,
+          "name": "全网通",
+          "isChoose": false
+        },
+        {
+          "id": 2567,
+          "name": "移动版",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2454,
+          "name": "黑色",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 4067,
+          "name": "6G+64G",
+          "isChoose": false
+        },
+        {
+          "id": 4066,
+          "name": "4G+64G",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 27507,
+    "name": "黑莓 Motion",
+    "contents": [
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 3098,
+          "name": "屏有硬划痕/脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2102,
+          "name": "指纹功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2103,
+          "name": "指纹无法完全录入和解锁",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 23354,
+    "name": "黑莓 DTEK50",
+    "contents": [
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 17306,
+    "name": "黑莓 Q20",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 24391,
+    "name": "黑莓 Leap",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 18007,
+    "name": "黑莓 P9983（联通3G版）",
+    "contents": [
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 3098,
+          "name": "屏有硬划痕/脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 17283,
+    "name": "黑莓 Passport",
+    "contents": [
+      [
+        {
+          "id": 2124,
+          "name": "全新机",
+          "isChoose": false
+        },
+        {
+          "id": 2125,
+          "name": "外壳完美",
+          "isChoose": true
+        },
+        {
+          "id": 2126,
+          "name": "壳划痕/小磕",
+          "isChoose": false
+        },
+        {
+          "id": 2128,
+          "name": "壳明显磕碰/掉漆",
+          "isChoose": false
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2118,
+          "name": "屏外观完美",
+          "isChoose": true
+        },
+        {
+          "id": 2120,
+          "name": "屏有划痕",
+          "isChoose": false
+        },
+        {
+          "id": 10059,
+          "name": "屏有硬划痕＜10mm",
+          "isChoose": false
+        },
+        {
+          "id": 3098,
+          "name": "屏有硬划痕/脱胶/气泡",
+          "isChoose": false
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2114,
+          "name": "显示完美",
+          "isChoose": true
+        },
+        {
+          "id": 2115,
+          "name": "显示色差",
+          "isChoose": false
+        },
+        {
+          "id": 12998,
+          "name": "轻微亮度问题（亮点/亮斑/背光不亮/黑角）",
+          "isChoose": false
+        },
+        {
+          "id": 12999,
+          "name": "显示坏点（白色或黑色界面下有颜色点）",
+          "isChoose": false
+        },
+        {
+          "id": 8565,
+          "name": "显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 6876,
+          "name": "显示色斑",
+          "isChoose": false
+        },
+        {
+          "id": 9631,
+          "name": "屏幕压伤",
+          "isChoose": false
+        },
+        {
+          "id": 2475,
+          "name": "显示异常",
+          "isChoose": false
+        },
+        {
+          "id": 3304,
+          "name": "不显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2134,
+          "name": "机身无弯曲",
+          "isChoose": true
+        },
+        {
+          "id": 6884,
+          "name": "轻微弯曲",
+          "isChoose": false
+        },
+        {
+          "id": 2135,
+          "name": "明显弯曲",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13787,
+          "name": "前摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13788,
+          "name": "前摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13789,
+          "name": "前摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13791,
+          "name": "后摄像头无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 13792,
+          "name": "后摄像头维修",
+          "isChoose": false
+        },
+        {
+          "id": 13793,
+          "name": "后摄像头缺失",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 14165,
+          "name": "后壳无维修",
+          "isChoose": true
+        },
+        {
+          "id": 14166,
+          "name": "后壳小修",
+          "isChoose": false
+        },
+        {
+          "id": 14167,
+          "name": "后壳维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6982,
+          "name": "零件无维修和缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6985,
+          "name": "维修电池/指纹",
+          "isChoose": false
+        },
+        {
+          "id": 13786,
+          "name": "缺失扬声器/马达",
+          "isChoose": false
+        },
+        {
+          "id": 6981,
+          "name": "缺失非一体机电池/内置手写笔",
+          "isChoose": false
+        },
+        {
+          "id": 7778,
+          "name": "缺失尾插小板",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2067,
+          "name": "无维修情况",
+          "isChoose": true
+        },
+        {
+          "id": 13532,
+          "name": "外屏小修",
+          "isChoose": false
+        },
+        {
+          "id": 6878,
+          "name": "外屏维修",
+          "isChoose": false
+        },
+        {
+          "id": 13533,
+          "name": "屏幕小修",
+          "isChoose": false
+        },
+        {
+          "id": 6879,
+          "name": "主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2965,
+          "name": "屏幕维修",
+          "isChoose": false
+        },
+        {
+          "id": 13534,
+          "name": "外屏小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 6880,
+          "name": "外屏维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13535,
+          "name": "屏幕小修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 2070,
+          "name": "主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 13536,
+          "name": "外屏小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6881,
+          "name": "外屏维修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 6882,
+          "name": "屏幕维修+主板小修",
+          "isChoose": false
+        },
+        {
+          "id": 13537,
+          "name": "屏幕小修+主板维修",
+          "isChoose": false
+        },
+        {
+          "id": 2069,
+          "name": "屏幕维修+主板维修",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2129,
+          "name": "机身无进水",
+          "isChoose": true
+        },
+        {
+          "id": 6883,
+          "name": "机身有受潮",
+          "isChoose": false
+        },
+        {
+          "id": 2130,
+          "name": "机身进水",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13542,
+          "name": "前摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 13544,
+          "name": "前摄画面异常（抖动/模糊/不对焦/颠倒/分层）",
+          "isChoose": false
+        },
+        {
+          "id": 13543,
+          "name": "前摄拍照无法开关/报错/全黑",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 10201,
+          "name": "后像头有斑",
+          "isChoose": false
+        },
+        {
+          "id": 6942,
+          "name": "画面异常",
+          "isChoose": false
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3222,
+          "name": "账号已注销",
+          "isChoose": true
+        },
+        {
+          "id": 3223,
+          "name": "账号无法注销",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6947,
+          "name": "光线、距离感应正常",
+          "isChoose": true
+        },
+        {
+          "id": 6948,
+          "name": "光线/距离感应不正常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 6949,
+          "name": "振动功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 6950,
+          "name": "振动功能异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 11210,
+          "name": "侧键正常",
+          "isChoose": true
+        },
+        {
+          "id": 11212,
+          "name": "侧键按压无反馈或失灵",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 17229,
+    "name": "黑莓 Z3",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 10118,
+    "name": "黑莓 Z30",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 36957,
+    "name": "黑莓 Kopi",
+    "contents": [
+      [
+        {
+          "id": 2567,
+          "name": "移动版",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2453,
+          "name": "白色",
+          "isChoose": false
+        },
+        {
+          "id": 2454,
+          "name": "黑色",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 4571,
+          "name": "2G+8G",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9795,
+    "name": "黑莓 Q5",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9387,
+    "name": "黑莓 Q10",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9244,
+    "name": "黑莓 Z10",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9285,
+    "name": "黑莓 p9981",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8644,
+    "name": "黑莓 9790",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8202,
+    "name": "黑莓 9860",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8267,
+    "name": "黑莓 Torch 9810",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 7472,
+    "name": "黑莓 Bold Touch 9900",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2167,
+    "name": "黑莓 bold 9780",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2028,
+    "name": "黑莓 9800",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2222,
+    "name": "黑莓 tour2 9650",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 1783,
+    "name": "黑莓 bold 9700",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 28428,
+    "name": "黑莓 9530",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 23867,
+    "name": "黑莓 DTEK60",
+    "contents": [
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 19390,
+    "name": "黑莓 Passport Silver Edition",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 17968,
+    "name": "黑莓 Priv",
+    "contents": [
+      [
+        {
+          "id": 2014,
+          "name": "大陆国行",
+          "isChoose": false
+        },
+        {
+          "id": 3445,
+          "name": "非大陆国行",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 16204,
+    "name": "黑莓 P9982",
+    "contents": [
+      [
+        {
+          "id": 10024,
+          "name": "外壳无裂缝缺失",
+          "isChoose": true
+        },
+        {
+          "id": 6873,
+          "name": "壳缺失/裂缝/翘起/刻字等",
+          "isChoose": false
+        },
+        {
+          "id": 6874,
+          "name": "屏幕支架断开/错位",
+          "isChoose": false
+        },
+        {
+          "id": 6875,
+          "name": "屏幕支架断开+外壳缺失/裂缝/孔变形/刻字",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 10025,
+          "name": "屏幕外观无碎裂",
+          "isChoose": true
+        },
+        {
+          "id": 8098,
+          "name": "屏幕有小缺角",
+          "isChoose": false
+        },
+        {
+          "id": 2122,
+          "name": "屏有碎裂/缺角",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 19213,
+          "name": "显示无明显缺陷",
+          "isChoose": true
+        },
+        {
+          "id": 19064,
+          "name": "显示色斑/坏点",
+          "isChoose": false
+        },
+        {
+          "id": 19065,
+          "name": "屏幕压伤/显示透图",
+          "isChoose": false
+        },
+        {
+          "id": 19066,
+          "name": "屏幕显示异常/无法显示/全花屏",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 12604,
+          "name": "无售后维修案例",
+          "isChoose": true
+        },
+        {
+          "id": 12603,
+          "name": "有售后维修案例",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 9630,
+          "name": "有开机密码",
+          "isChoose": false
+        },
+        {
+          "id": 12469,
+          "name": "可进入桌面，进入后间歇性自动重启",
+          "isChoose": false
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2104,
+          "name": "后摄拍照摄像正常",
+          "isChoose": true
+        },
+        {
+          "id": 2105,
+          "name": "无法拍照",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2045,
+          "name": "通话功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 2047,
+          "name": "通话异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 13842,
+          "name": "声音功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 13843,
+          "name": "声音功能异常（听筒/扬声器/麦克功能异常）",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2106,
+          "name": "充电正常",
+          "isChoose": true
+        },
+        {
+          "id": 2107,
+          "name": "不充电",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 2108,
+          "name": "无线正常",
+          "isChoose": true
+        },
+        {
+          "id": 2109,
+          "name": "无线异常",
+          "isChoose": false
+        }
+      ],
+      [
+        {
+          "id": 3168,
+          "name": "触摸功能正常",
+          "isChoose": true
+        },
+        {
+          "id": 3169,
+          "name": "触摸失灵/延迟",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 14961,
+    "name": "黑莓 8900",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 10062,
+    "name": "黑莓 8700",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9859,
+    "name": "黑莓 8310",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9817,
+    "name": "黑莓 9000",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9801,
+    "name": "黑莓 8800",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9499,
+    "name": "黑莓 9850",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9177,
+    "name": "黑莓 9930",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8513,
+    "name": "黑莓 9360",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  },
+  {
+    "id": 5988,
+    "name": "黑莓 8980",
+    "contents": [
+      [
+        {
+          "id": 2026,
+          "name": "正常开机",
+          "isChoose": true
+        },
+        {
+          "id": 6870,
+          "name": "重启/不能进桌面",
+          "isChoose": false
+        }
+      ]
+    ]
+  }
+]

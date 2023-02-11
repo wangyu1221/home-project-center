@@ -1,0 +1,656 @@
+[
+	{
+		"productSeriesList":[
+			{
+				"id":113464,
+				"name":"荣耀 80 Pro 直屏版"
+			},
+			{
+				"id":112858,
+				"name":"荣耀 80 GT"
+			},
+			{
+				"id":110997,
+				"name":"荣耀 80 SE"
+			},
+			{
+				"id":110289,
+				"name":"荣耀 80 Pro"
+			},
+			{
+				"id":110288,
+				"name":"荣耀 80"
+			},
+			{
+				"id":84648,
+				"name":"荣耀 70 Pro (5G版)"
+			},
+			{
+				"id":84630,
+				"name":"荣耀 70 (5G版)"
+			},
+			{
+				"id":84662,
+				"name":"荣耀 70 Pro+ (5G版)"
+			},
+			{
+				"id":62098,
+				"name":"荣耀 60 SE"
+			},
+			{
+				"id":55534,
+				"name":"荣耀 60 Pro"
+			},
+			{
+				"id":55383,
+				"name":"荣耀 60",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":110527,
+				"name":"荣耀 50 Lite"
+			},
+			{
+				"id":39143,
+				"name":"荣耀 50 Pro"
+			},
+			{
+				"id":39142,
+				"name":"荣耀 50"
+			},
+			{
+				"id":39141,
+				"name":"荣耀 50 SE"
+			},
+			{
+				"id":66624,
+				"name":"荣耀 10X Lite"
+			},
+			{
+				"id":35349,
+				"name":"荣耀 30 青春版 (5G版)"
+			},
+			{
+				"id":64753,
+				"name":"荣耀 9S"
+			},
+			{
+				"id":66947,
+				"name":"荣耀 20e"
+			},
+			{
+				"id":34688,
+				"name":"荣耀 30 Pro+ (5G版)"
+			},
+			{
+				"id":34687,
+				"name":"荣耀 30 Pro (5G版)"
+			},
+			{
+				"id":34686,
+				"name":"荣耀 30 (5G版)"
+			},
+			{
+				"id":36792,
+				"name":"荣耀 9X Lite"
+			},
+			{
+				"id":34574,
+				"name":"荣耀 30S (5G版)"
+			},
+			{
+				"id":109166,
+				"name":"荣耀 9A"
+			},
+			{
+				"id":32850,
+				"name":"荣耀 20 (青春版)"
+			},
+			{
+				"id":32019,
+				"name":"荣耀 20S"
+			},
+			{
+				"id":31008,
+				"name":"荣耀 9X"
+			},
+			{
+				"id":31007,
+				"name":"荣耀 9X Pro"
+			},
+			{
+				"id":30044,
+				"name":"荣耀 20 Pro"
+			},
+			{
+				"id":43619,
+				"name":"荣耀 20 Lite"
+			},
+			{
+				"id":29693,
+				"name":"荣耀 20"
+			},
+			{
+				"id":29291,
+				"name":"荣耀 20i"
+			},
+			{
+				"id":35992,
+				"name":"荣耀10i"
+			},
+			{
+				"id":28168,
+				"name":"荣耀 10 (青春版)"
+			},
+			{
+				"id":27551,
+				"name":"荣耀 8X Max"
+			},
+			{
+				"id":27550,
+				"name":"荣耀 8X"
+			},
+			{
+				"id":26959,
+				"name":"荣耀 9i"
+			},
+			{
+				"id":26613,
+				"name":"荣耀 10"
+			},
+			{
+				"id":26170,
+				"name":"荣耀 9 (青春版)"
+			},
+			{
+				"id":25240,
+				"name":"荣耀 9"
+			},
+			{
+				"id":24240,
+				"name":"荣耀 8 (青春版)"
+			},
+			{
+				"id":23049,
+				"name":"荣耀 8"
+			},
+			{
+				"id":17746,
+				"name":"荣耀 7i"
+			},
+			{
+				"id":17616,
+				"name":"荣耀 7"
+			},
+			{
+				"id":17712,
+				"name":"荣耀 4A"
+			},
+			{
+				"id":17320,
+				"name":"荣耀 6 Plus"
+			},
+			{
+				"id":19343,
+				"name":"荣耀 3X (畅玩版)"
+			},
+			{
+				"id":17254,
+				"name":"荣耀 3C (畅玩版)"
+			},
+			{
+				"id":14972,
+				"name":"荣耀 6"
+			},
+			{
+				"id":14944,
+				"name":"荣耀 3X Pro"
+			},
+			{
+				"id":17252,
+				"name":"荣耀 3C"
+			},
+			{
+				"id":9557,
+				"name":"荣耀 3 (OUTDOOR/HN3-U01)"
+			},
+			{
+				"id":9826,
+				"name":"荣耀 3X"
+			},
+			{
+				"id":8745,
+				"name":"荣耀 Honor+"
+			},
+			{
+				"id":8139,
+				"name":"荣耀 Honor (U8860/C8860)"
+			}
+		],
+		"seriesCode":"3",
+		"seriesName":"HONOR系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":109718,
+				"name":"荣耀 畅玩 30M"
+			},
+			{
+				"id":108928,
+				"name":"荣耀 畅玩40 Plus"
+			},
+			{
+				"id":109602,
+				"name":"荣耀 Play 6C"
+			},
+			{
+				"id":76903,
+				"name":"荣耀 Play 6T"
+			},
+			{
+				"id":76640,
+				"name":"荣耀 Play 6T Pro"
+			},
+			{
+				"id":57426,
+				"name":"荣耀 畅玩30 Plus"
+			},
+			{
+				"id":52553,
+				"name":"荣耀 Play5 (活力版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":43650,
+				"name":"荣耀 畅玩20 Pro"
+			},
+			{
+				"id":83906,
+				"name":"荣耀 畅玩30"
+			},
+			{
+				"id":43056,
+				"name":"荣耀 Play5T Pro",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":38961,
+				"name":"荣耀 Play5T"
+			},
+			{
+				"id":38882,
+				"name":"荣耀 play5 (5G版)"
+			},
+			{
+				"id":38856,
+				"name":"荣耀 Play 5T 活力版 (4G版)"
+			},
+			{
+				"id":113069,
+				"name":"荣耀 畅玩20a"
+			},
+			{
+				"id":35362,
+				"name":"荣耀 Play4 (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":35256,
+				"name":"荣耀 Play4 Pro (5G版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":34734,
+				"name":"荣耀 Play4T Pro"
+			},
+			{
+				"id":34733,
+				"name":"荣耀 Play4T"
+			},
+			{
+				"id":38600,
+				"name":"荣耀 畅玩20"
+			},
+			{
+				"id":34590,
+				"name":"荣耀 畅玩9A"
+			},
+			{
+				"id":32634,
+				"name":"荣耀 Play3e"
+			},
+			{
+				"id":32244,
+				"name":"荣耀 Play3"
+			},
+			{
+				"id":30985,
+				"name":"荣耀 畅玩8"
+			},
+			{
+				"id":36087,
+				"name":"荣耀 畅玩8S"
+			},
+			{
+				"id":28760,
+				"name":"荣耀 畅玩8A"
+			},
+			{
+				"id":27764,
+				"name":"荣耀 畅玩8C"
+			},
+			{
+				"id":27794,
+				"name":"荣耀 Play (酷玩版)"
+			},
+			{
+				"id":26958,
+				"name":"荣耀 Play"
+			},
+			{
+				"id":26911,
+				"name":"荣耀 畅玩7"
+			},
+			{
+				"id":30602,
+				"name":"荣耀 畅玩7A (无指纹版)"
+			},
+			{
+				"id":26490,
+				"name":"荣耀 畅玩7A (有指纹版)"
+			},
+			{
+				"id":26422,
+				"name":"荣耀 畅玩7C"
+			},
+			{
+				"id":25820,
+				"name":"荣耀 畅玩7X"
+			},
+			{
+				"id":25239,
+				"name":"荣耀 畅玩6A"
+			},
+			{
+				"id":65554,
+				"name":"荣耀 畅玩5+"
+			},
+			{
+				"id":23668,
+				"name":"荣耀 畅玩6X"
+			},
+			{
+				"id":22440,
+				"name":"荣耀 畅玩5A"
+			},
+			{
+				"id":23460,
+				"name":"荣耀 畅玩5"
+			},
+			{
+				"id":20742,
+				"name":"荣耀 畅玩5C"
+			},
+			{
+				"id":17887,
+				"name":"荣耀 畅玩5X"
+			},
+			{
+				"id":17615,
+				"name":"荣耀 畅玩4C"
+			},
+			{
+				"id":17259,
+				"name":"荣耀 畅玩4X"
+			},
+			{
+				"id":17312,
+				"name":"荣耀 畅玩4"
+			},
+			{
+				"id":25717,
+				"name":"荣耀 畅玩6"
+			}
+		],
+		"seriesCode":"8",
+		"seriesName":"Play系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":37596,
+				"name":"荣耀 V40 (轻奢版)"
+			},
+			{
+				"id":37019,
+				"name":"荣耀 V40 (5G版)"
+			},
+			{
+				"id":33280,
+				"name":"荣耀 V30 (5G版)"
+			},
+			{
+				"id":33281,
+				"name":"荣耀 V30 Pro (5G版)"
+			},
+			{
+				"id":28612,
+				"name":"荣耀 V20"
+			},
+			{
+				"id":25682,
+				"name":"荣耀 V9 play"
+			},
+			{
+				"id":26078,
+				"name":"荣耀 V10"
+			},
+			{
+				"id":24239,
+				"name":"荣耀 V9"
+			},
+			{
+				"id":21769,
+				"name":"荣耀 V8"
+			}
+		],
+		"seriesCode":"13",
+		"seriesName":"V系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":107954,
+				"name":"荣耀 X40 GT"
+			},
+			{
+				"id":109416,
+				"name":"荣耀 X7"
+			},
+			{
+				"id":99452,
+				"name":"荣耀 X40"
+			},
+			{
+				"id":114671,
+				"name":"荣耀 X6"
+			},
+			{
+				"id":92590,
+				"name":"荣耀 X40i (5G版)"
+			},
+			{
+				"id":110933,
+				"name":"荣耀 X8 (4G版)"
+			},
+			{
+				"id":57425,
+				"name":"荣耀 X30",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":52555,
+				"name":"荣耀 X30i"
+			},
+			{
+				"id":52552,
+				"name":"荣耀 X30 Max"
+			},
+			{
+				"id":42860,
+				"name":"荣耀 X20"
+			},
+			{
+				"id":42519,
+				"name":"荣耀 X20 SE"
+			},
+			{
+				"id":35322,
+				"name":"荣耀 X10 Max (5G版)"
+			},
+			{
+				"id":34948,
+				"name":"荣耀 X10 (5G版)"
+			}
+		],
+		"seriesCode":"19",
+		"seriesName":"X系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":27334,
+				"name":"荣耀 Note 10"
+			},
+			{
+				"id":23286,
+				"name":"荣耀 Note 8"
+			}
+		],
+		"seriesCode":"2352",
+		"seriesName":"Note系列"
+	},
+	{
+		"productSeriesList":[
+			{
+				"id":110591,
+				"name":"荣耀 Magic Vs 至臻版"
+			},
+			{
+				"id":110590,
+				"name":"荣耀 Magic Vs",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":98748,
+				"name":"荣耀 magic 4 Lite (5G版)"
+			},
+			{
+				"id":69834,
+				"name":"荣耀 Magic4 (至臻版)"
+			},
+			{
+				"id":68768,
+				"name":"荣耀 Magic4 (5G款)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":68759,
+				"name":"荣耀 Magic4 Pro (5G款)"
+			},
+			{
+				"id":59959,
+				"name":"荣耀 Magic V"
+			},
+			{
+				"id":42881,
+				"name":"荣耀 Magic3 (至臻版)",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			},
+			{
+				"id":42880,
+				"name":"荣耀 Magic3 Pro"
+			},
+			{
+				"id":42879,
+				"name":"荣耀 Magic3"
+			},
+			{
+				"id":29180,
+				"name":"荣耀 Magic2 (3D感光版)"
+			},
+			{
+				"id":27908,
+				"name":"荣耀 Magic2"
+			},
+			{
+				"id":24026,
+				"name":"荣耀 Magic",
+				"productTags":[
+					{
+						"iconUrl":"https://resource.aihuishou.com/popweb/%E6%B6%A8@3x.png160082924943257isqegns4w.png",
+						"tagCode":"1",
+						"tagName":"涨"
+					}
+				]
+			}
+		],
+		"seriesCode":"26435",
+		"seriesName":"Magic系列"
+	}
+]
