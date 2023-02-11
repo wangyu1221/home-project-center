@@ -1,5 +1,5 @@
 info:
-  component: center
+  component: home-center
   instance: ${spring.cloud.client.ip-address}:${server.port}
   os: Linux
   name: ${spring.application.name}
