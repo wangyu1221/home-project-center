@@ -4,7 +4,7 @@ import com.xors.home.center.mqtt.client.HomeMqttClient;
 import io.swagger.annotations.ApiOperation;
 import org.eclipse.paho.client.mqttv3.MqttException;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
@@ -17,7 +17,7 @@ public class TestController {
 
     @ApiOperation("")
     @PostMapping("/test/send")
-    public void send(@RequestBody String payload) throws MqttException {
+    public void send(@RequestParam String payload) throws MqttException {
         homeMqttClient.publish(payload);
     }
 }
